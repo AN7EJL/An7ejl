@@ -16,7 +16,7 @@
 &nbsp;
 <a href="https://twitter.com/an7ejl" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@an7ejl-00ffff?style=for-the-badge&logo=x&logoColor=ff00ff&labelColor=0d0221" /></a>
 &nbsp;
-<a href="https://github.com/AN7EJL?tab=projects" target="_blank"><img src="https://img.shields.io/badge/PROJECTS-VIEW-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d0221" /></a>
+<a href="https://github.com/AN7EJL?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/PROJECTS-VIEW-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d0221" /></a>
 
 </div>
 
@@ -37,7 +37,23 @@ $ cat /etc/status.conf
 $ ./connect --target=@an7ejl
 > twitter: https://twitter.com/an7ejl
 > github : https://github.com/AN7EJL
-```html
+Хорошо, давай отложим змейку. 
+
+Посмотрев на твой текущий файл `README.md`, я вижу, что там есть **несколько критических ошибок**, из-за которых твой профиль сейчас выглядит сломанным. Если ты откроешь свою страницу GitHub, ты наверняка увидишь, что шапка повторяется дважды, а вторая половина профиля превратилась в «простыню» неформатированного кода.
+
+Вот что я бы **обязательно** изменил прямо сейчас:
+
+1. **Убрал бы дубликат.** Весь верхний блок (шапка, картинка, бейджи, `SYSTEM.LOG`) у тебя написан два раза подряд. Это выглядит как ошибка и портит первое впечатление.
+2. **Закрыл бы тег ```html.** В середине файла у тебя открывается блок ```html, который нигде не закрывается. Из-за этого GitHub перестает понимать, где заканчивается код и начинается обычная разметка. Весь твой профиль от середины и ниже, скорее всего, отображается как сплошной текст.
+3. **Починил бы статистику.** Ссылка на стрик (Streak Stats) использует старый домен `herokuapp.com`. Heroku отключил бесплатные хостинги, поэтому эта картинка, скорее всего, у тебя не грузится (отображается битой). Ее нужно заменить на новый домен `demolab.com`.
+4. **Поправил бы блок проектов.** Карточка `repo=TOS` будет показываться только в том случае, если у тебя есть *публичный* репозиторий с названием ровно `TOS`. Если он приватный или называется иначе, картинка будет пустой.
+5. **Сделал бы змейку адаптивной.** Даже если мы отложили настройку, я бы добавил `<picture>` тег, чтобы змейка красиво смотрелась и в светлой, и в темной теме GitHub.
+
+### Готовый исправленный `README.md`
+
+Я собрал весь твой код, убрал дубликаты, закрыл теги и починил ссылки. Просто скопируй всё это и вставь в свой `README.md` (полностью замени текущий текст):
+
+```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    🌃 AN7EJL // CYBERDECK 🌃                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -56,7 +72,7 @@ $ ./connect --target=@an7ejl
 &nbsp;
 <a href="https://twitter.com/an7ejl" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@an7ejl-00ffff?style=for-the-badge&logo=x&logoColor=ff00ff&labelColor=0d0221" /></a>
 &nbsp;
-<a href="https://github.com/AN7EJL?tab=projects" target="_blank"><img src="https://img.shields.io/badge/PROJECTS-VIEW-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d0221" /></a>
+<a href="https://github.com/AN7EJL?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/PROJECTS-VIEW-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d0221" /></a>
 
 </div>
 
@@ -146,7 +162,8 @@ $ ./connect --target=@an7ejl
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=an7ejl&theme=synthwave&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
+<!-- Исправлен домен для стрик-статистики -->
+<img src="https://streak-stats.demolab.com/?user=an7ejl&theme=synthwave&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
 
 <br/><br/>
 
@@ -160,7 +177,8 @@ $ ./connect --target=@an7ejl
 
 <div align="center">
 
-<a href="https://github.com/AN7EJL?tab=projects">
+<!-- Убедись, что репозиторий TOS существует и он публичный. Иначе замени 'TOS' на название нужного репозитория -->
+<a href="https://github.com/AN7EJL/TOS">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=an7ejl&repo=TOS&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" />
 </a>
 
@@ -172,7 +190,12 @@ $ ./connect --target=@an7ejl
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/an7ejl/an7ejl/output/github-contribution-grid-snake-dark.svg)
+<!-- Змейка (когда настроишь - будет работать). Адаптировано под темную/светлую тему -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/an7ejl/an7ejl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/an7ejl/an7ejl/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/an7ejl/an7ejl/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -190,4 +213,3 @@ $ ./connect --target=@an7ejl
 
 </div>
 ```
-
