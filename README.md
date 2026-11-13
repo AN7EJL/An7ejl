@@ -111,19 +111,18 @@ $ ./connect --target=@an7ejl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=an7ejl&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&locale=en" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=an7ejl&show_icons=true&theme=synthwave&layout=compact&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&locale=en" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=an7ejl&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&locale=en&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=an7ejl&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&locale=en&count_private=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=an7ejl&theme=synthwave&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=an7ejl&theme=dark&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=an7ejl&theme=algolia&column=7&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
-
 ---
 
 <h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
