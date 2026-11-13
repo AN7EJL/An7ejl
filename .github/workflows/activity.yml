@@ -1,12 +1,10 @@
 name: Fill Activity Graph
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Запуск раз в день в полдень
-  workflow_dispatch:
+  workflow_dispatch: # Позволяет запускать вручную
 
 jobs:
-  single-commit:
+  backfill-commits:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,3 +13,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIT_EMAIL: DanilKondaurov19@icloud.com
+          MAX_DAYS: 365
+          MIN_COMMITS_PER_DAY: 1
+          MAX_COMMITS_PER_DAY: 5
