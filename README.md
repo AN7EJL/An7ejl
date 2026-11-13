@@ -37,8 +37,6 @@ $ cat /etc/status.conf
 $ ./connect --target=@an7ejl
 > twitter: https://twitter.com/an7ejl
 > github : https://github.com/AN7EJL
-```markdown
-
 ```
 
 ---
