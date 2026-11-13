@@ -2,7 +2,7 @@ name: Fill Activity Graph
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Запуск раз в день
+    - cron: '0 12 * * *' # Запуск раз в день в полдень
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: bcanseco/github-contribution-graph-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_EMAIL: твой_email@example.com # 👈 ОБЯЗАТЕЛЬНО замени на email из настроек GitHub
+          GIT_EMAIL: DanilKondaurov19@icloud.com
