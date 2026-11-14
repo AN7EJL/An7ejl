@@ -39,6 +39,7 @@ $ cat /etc/status.conf
     <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/radar.svg" alt="Radar das linguagens" width="100%">
   </a>
 </p>
+
 ---
 
 <h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
@@ -52,6 +53,7 @@ $ cat /etc/status.conf
 </div>
 
 ---
+
 <h3 align="left">⟨ <code>SKILLS</code> ⟩</h3>
 
 <div align="left" style="background-color: #030305; padding: 10px 0; font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;">
@@ -125,6 +127,15 @@ $ cat /etc/status.conf
   </div>
 
 </div>
+
+---
+
+<h3 align="center">⟨ <code>GITHUB.STATS</code> ⟩</h3>
+
+<div align="center">
+  <img width="49%" style="dark: 0 0.5%;" src="https://github-readme-stats.shion.dev/api?username=An7ejl&theme=dark&hide_border=true&bg_color=0d0221&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" /> <img width="49%" style="margin: 0 0.5%;" src="https://streak-stats.demolab.com/?user=An7ejl&theme=dark&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
+</div>
+
 ---
 
 <h3 align="center">⟨ <code>NEURAL.ACTIVITY</code> ⟩</h3>
