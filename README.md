@@ -1,53 +1,45 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🌃 AN7EJL // CYBERDECK 🌃                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="assets/banner.svg" alt="An7ejl, Full-stack Developer" width="100%">
+</p>
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221,ff00ff,00ffff&height=200&section=header&text=AN7EJL&fontSize=90&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20FULL-STACK%20DEVELOPER%20%E2%9A%A1&descAlignY=58&descSize=22&descColor=FF00FF" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=650&height=90&lines=%3E+initializing+neural+interface...;%3E+access+granted+%5BOK%5D;%3E+full-stack+dev+online;%3E+ready+to+jack+in" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=an7ejl&label=SYS.ACCESS&color=ff00ff&style=for-the-badge&labelColor=0d0221" />
-&nbsp;
-<a href="https://twitter.com/an7ejl" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@an7ejl-00ffff?style=for-the-badge&logo=x&logoColor=ff00ff&labelColor=0d0221" /></a>
-&nbsp;
-<a href="https://github.com/AN7EJL?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/PROJECTS-VIEW-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d0221" /></a>
-
+  
+  ## About Me
+  
 </div>
-
----
-
-<h3 align="center">⟨ <code>SYSTEM.LOG</code> ⟩</h3>
 
 ```bash
 $ whoami
 > An7ejl — Full-stack developer
 
 $ cat /etc/status.conf
-> [ACTIVE]    Building "TOS" — full-stack project
+> [ACTIVE]    Building "TOS" — closed custom operating system
 > [LEARNING]  Full-stack architecture · Testing · DevOps
 > [MISSION]   Learn more technologies, never stop creating
 > [COLLAB]    OPEN — hit me up on Twitter
-
-$ ./connect --target=@an7ejl
-> twitter: https://twitter.com/an7ejl
-> github : https://github.com/AN7EJL
 ```
 
----
-
-<h3 align="center">⟨ <code>ACTIVITY.GRAPH</code> ⟩</h3>
-
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=an7ejl&theme=synthwave&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" alt="Activity Graph" />
+  
+  ## Contacts
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-ff00ff?style=for-the-badge&logo=x&logoColor=00ffff&labelColor=0d0221)](https://twitter.com/an7ejl)
+  [![Email](https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=0d0221)](mailto:your-email@example.com)
+  [![Discord](https://img.shields.io/badge/Discord-ff00ff?style=for-the-badge&logo=discord&logoColor=00ffff&labelColor=0d0221)](https://discord.com/)
 
 </div>
+
+<div align="center">
+  
+  ## Languages and activity
+
+</div>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/assets/radar.svg">
+    <img src="assets/radar.svg" alt="Radar das linguagens que mais uso e estatísticas do GitHub" width="100%">
+  </a>
+</p>
 
 ---
 
@@ -117,18 +109,6 @@ $ ./connect --target=@an7ejl
 
 ---
 
-<h3 align="center">⟨ <code>GITHUB.STATS</code> ⟩</h3>
-
-<div align="center">
-
-<img width="32%" src="https://github-stats-extended.vercel.app/api?username=an7ejl&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&locale=en&count_private=true&include_all_commits=true" /> <img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs?username=an7ejl&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&locale=en&count_private=true" /> <img width="32%" src="https://streak-stats.demolab.com/?user=an7ejl&theme=dark&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
-
-<br/><br/>
-
-</div>
-
----
-
 <h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
 
 <div align="center">
@@ -138,6 +118,7 @@ $ ./connect --target=@an7ejl
 </a>
 
 </div>
+
 ---
 
 <h3 align="center">⟨ <code>NEURAL.ACTIVITY</code> ⟩</h3>
@@ -152,17 +133,11 @@ $ ./connect --target=@an7ejl
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff,ff00ff,0d0221&height=120&section=footer&text=END%20OF%20LINE&fontSize=24&fontColor=00FFFF&animation=twinkling" />
-
-<sub>⚡ <code>an7ejl@grid:~$ _</code> ⚡</sub>
-
-</div>
+<p align="center">
+  <img src="assets/footer.png" alt="Rodapé" width="100%">
+</p>
 ```
+
+4. Файл `radar.svg` уже должен лежать в этой папке и генерироваться твоим Python-скриптом (он у тебя настроен правильно).
+
+Как только ты загрузишь эти две картинки в папку `assets`, твой профиль будет выглядеть ровно так же, как у Hugo, но с твоим терминалом, твоими контактами и твоими технологиями.
