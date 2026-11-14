@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
+  # Запускать каждые 12 часов
   schedule:
     - cron: "0 */12 * * *"
+  # Позволять запускать вручную из вкладки Actions
   workflow_dispatch:
+  # Запускать при пуше в ветку main
   push:
     branches:
     - main
@@ -16,6 +19,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Генерирует змейку из графика контрибьюций
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         id: snake-gif
@@ -25,6 +29,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Публикует сгенерированные файлы в ветку "output"
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
