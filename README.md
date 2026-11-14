@@ -52,51 +52,69 @@ $ cat /etc/status.conf
 </div>
 
 ---
-
 <h3 align="center">⟨ <code>SKILLS</code> ⟩</h3>
 
-<div align="center">
+<table align="center" style="border-collapse: collapse; background-color: #0d0221; border-radius: 8px; padding: 15px; border: 1px solid #1a1a2e;">
+  <tr>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ PROGRAMMING</b><br><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF&labelColor=0d0221" alt="C++"><br><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FF00FF&labelColor=0d0221" alt="C#"><br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00FFFF&labelColor=0d0221" alt="Java"><br><br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FF00FF&labelColor=0d0221" alt="PHP"><br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=00FFFF&labelColor=0d0221" alt="Node.js"><br><br>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=FF00FF&labelColor=0d0221" alt=".NET">
+    </td>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ FRONTEND</b><br><br>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=00FFFF&labelColor=0d0221" alt="Angular"><br><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FF00FF&labelColor=0d0221" alt="React"><br><br>
+      <img src="https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=00FFFF&labelColor=0d0221" alt="11ty"><br><br>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=FF00FF&labelColor=0d0221" alt="Bootstrap"><br><br>
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=00FFFF&labelColor=0d0221" alt="Ionic"><br><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF00FF&labelColor=0d0221" alt="CSS3">
+    </td>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ BACKEND & DEVOPS</b><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FFFF&labelColor=0d0221" alt="Docker"><br><br>
+      <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=FF00FF&labelColor=0d0221" alt="Azure"><br><br>
+      <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=00FFFF&labelColor=0d0221" alt="Google Cloud"><br><br>
+      <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=FF00FF&labelColor=0d0221" alt="Apache"><br><br>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=00FFFF&labelColor=0d0221" alt="Nginx"><br><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FF00FF&labelColor=0d0221" alt="Linux">
+    </td>
+  </tr>
+</table>
 
-**`>_ PROGRAMMING`**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF&labelColor=0d0221) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FF00FF&labelColor=0d0221) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00FFFF&labelColor=0d0221)
 <br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FF00FF&labelColor=0d0221) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=00FFFF&labelColor=0d0221) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=FF00FF&labelColor=0d0221)
 
-<br><br>
-
-**`>_ FRONTEND`**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=00FFFF&labelColor=0d0221) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FF00FF&labelColor=0d0221) ![11ty](https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=00FFFF&labelColor=0d0221)
-<br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=FF00FF&labelColor=0d0221) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=00FFFF&labelColor=0d0221) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FF00FF&labelColor=0d0221)
-
-<br><br>
-
-**`>_ BACKEND & DEVOPS`**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FFFF&labelColor=0d0221) ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=FF00FF&labelColor=0d0221) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=00FFFF&labelColor=0d0221)
-<br>
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=FF00FF&labelColor=0d0221) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=00FFFF&labelColor=0d0221) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FF00FF&labelColor=0d0221)
-
-<br><br>
-
-**`>_ DATA & TESTING`**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00FFFF&labelColor=0d0221) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FF00FF&labelColor=0d0221) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=00FFFF&labelColor=0d0221)
-<br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF00FF&labelColor=0d0221) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00FFFF&labelColor=0d0221) ![Karma](https://img.shields.io/badge/Karma-56B3B4?style=for-the-badge&logo=karma&logoColor=FF00FF&labelColor=0d0221)
-
-<br><br>
-
-**`>_ SOFTWARE`**
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=00FFFF&labelColor=0d0221) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FF00FF&labelColor=0d0221) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=00FFFF&labelColor=0d0221)
-<br>
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=FF00FF&labelColor=0d0221) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=00FFFF&labelColor=0d0221) ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=FF00FF&labelColor=0d0221)
-
-</div>
-
+<table align="center" style="border-collapse: collapse; background-color: #0d0221; border-radius: 8px; padding: 15px; border: 1px solid #1a1a2e;">
+  <tr>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ DATA & TESTING</b><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00FFFF&labelColor=0d0221" alt="MySQL"><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FF00FF&labelColor=0d0221" alt="PostgreSQL"><br><br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=00FFFF&labelColor=0d0221" alt="Oracle"><br><br>
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=FF00FF&labelColor=0d0221" alt="Cypress"><br><br>
+      <img src="https://img.shields.io/badge/Karma-56B3B4?style=for-the-badge&logo=karma&logoColor=00FFFF&labelColor=0d0221" alt="Karma">
+    </td>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ SOFTWARE</b><br><br>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=00FFFF&labelColor=0d0221" alt="Visual Studio"><br><br>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FF00FF&labelColor=0d0221" alt="IntelliJ IDEA"><br><br>
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=00FFFF&labelColor=0d0221" alt="Eclipse"><br><br>
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=FF00FF&labelColor=0d0221" alt="Unreal Engine">
+    </td>
+    <td align="center" valign="top" width="33%" style="padding: 10px;">
+      <b style="color: #00FFFF; font-family: monospace;">>_ TOOLS</b><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FFFF&labelColor=0d0221" alt="Git"><br><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF00FF&labelColor=0d0221" alt="Postman"><br><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=00FFFF&labelColor=0d0221" alt="Figma"><br><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FF00FF&labelColor=0d0221" alt="Bash"><br><br>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=00FFFF&labelColor=0d0221" alt="PowerShell">
+    </td>
+  </tr>
+</table>
 ---
 
 <h3 align="center">⟨ <code>NEURAL.ACTIVITY</code> ⟩</h3>
