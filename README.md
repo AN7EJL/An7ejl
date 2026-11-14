@@ -39,6 +39,17 @@ $ cat /etc/status.conf
     <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/radar.svg" alt="Radar das linguagens" width="100%">
   </a>
 </p>
+---
+
+<h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
+
+<div align="center">
+
+<a href="https://github.com/AN7EJL/TOS">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=an7ejl&repo=TOS&bg_color=000000&title_color=FFFFFF&text_color=a9a9a9&icon_color=00FFFF&hide_border=true" alt="TOS Project" />
+</a>
+
+</div>
 
 ---
 
@@ -106,17 +117,6 @@ $ cat /etc/status.conf
 
 </div>
 
----
-
-<h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
-
-<div align="center">
-
-<a href="https://github.com/AN7EJL/TOS">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=an7ejl&repo=TOS&bg_color=000000&title_color=FFFFFF&text_color=a9a9a9&icon_color=00FFFF&hide_border=true" alt="TOS Project" />
-</a>
-
-</div>
 
 ---
 
