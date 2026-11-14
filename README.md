@@ -133,9 +133,8 @@ $ cat /etc/status.conf
 <h3 align="center">⟨ <code>GITHUB.STATS</code> ⟩</h3>
 
 <div align="center">
-  <img width="49%" style="dark: 0 0.5%;" src="https://github-readme-stats.shion.dev/api?username=An7ejl&theme=dark&hide_border=true&bg_color=0d0221&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" /> <img width="49%" style="margin: 0 0.5%;" src="https://streak-stats.demolab.com/?user=An7ejl&theme=dark&hide_border=true&background=0d0221&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" />
+  <img width="49%" style="margin: 0 0.5%;" src="https://github-readme-stats.shion.dev/api?username=An7ejl&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true" /> <img width="49%" style="margin: 0 0.5%;" src="https://streak-stats.demolab.com/?user=An7ejl&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 </div>
-
 ---
 
 <h3 align="center">⟨ <code>NEURAL.ACTIVITY</code> ⟩</h3>
