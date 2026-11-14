@@ -125,19 +125,6 @@ $ ./connect --target=@an7ejl
 
 <br/><br/>
 
-<!-- Если кубки всё равно не грузятся, можешь просто удалить эту строчку ниже -->
-<img src="https://github-profile-trophy.vercel.app/?username=an7ejl&theme=radical&column=7&margin-w=8&no-frame=true" />
-
-</div>
-
----
-
-<h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=An7ejl&limit=5&theme=synthwave&combine_all_yearly_contributions=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF" />
-
 </div>
 
 ---
@@ -147,11 +134,10 @@ $ ./connect --target=@an7ejl
 <div align="center">
 
 <a href="https://github.com/AN7EJL/TOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=an7ejl&repo=TOS&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" alt="TOS Project" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=an7ejl&repo=TOS&bg_color=000000&title_color=FFFFFF&text_color=a9a9a9&icon_color=00FFFF&hide_border=true" alt="TOS Project" />
 </a>
 
 </div>
-
 ---
 
 <h3 align="center">⟨ <code>NEURAL.ACTIVITY</code> ⟩</h3>
