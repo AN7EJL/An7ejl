@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="assets/banner.svg" alt="An7ejl, Full-stack Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/banner.svg" alt="An7ejl, Full-stack Developer" width="100%">
 </p>
 <div align="center">
   
@@ -36,8 +35,8 @@ $ cat /etc/status.conf
 </div>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/assets/radar.svg">
-    <img src="assets/radar.svg" alt="Radar das linguagens que mais uso e estatísticas do GitHub" width="100%">
+  <a href="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/radar.svg">
+    <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/radar.svg" alt="Radar das linguagens" width="100%">
   </a>
 </p>
 
@@ -134,10 +133,6 @@ $ cat /etc/status.conf
 </div>
 
 <p align="center">
-  <img src="assets/footer.png" alt="Rodapé" width="100%">
+  <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/footer.png" alt="Rodapé" width="100%">
 </p>
 ```
-
-4. Файл `radar.svg` уже должен лежать в этой папке и генерироваться твоим Python-скриптом (он у тебя настроен правильно).
-
-Как только ты загрузишь эти две картинки в папку `assets`, твой профиль будет выглядеть ровно так же, как у Hugo, но с твоим терминалом, твоими контактами и твоими технологиями.
