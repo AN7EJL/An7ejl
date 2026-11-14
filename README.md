@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/.github/workflows/assets/banner.png" alt="An7ejl, Full-stack Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/AN7EJL/AN7EJL/main/assets/Banner1.gif" alt="An7ejl Banner" width="100%">
 </p>
 <div align="center">
   
