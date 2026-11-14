@@ -142,12 +142,12 @@ $ ./connect --target=@an7ejl
 
 ---
 
-<h3 align="center">⟨ <code>FEATURED.PROJECTS</code> ⟩</h3>
+<h3 align="center">⟨ <code>TOP.CONTRIBUTED.REPO</code> ⟩</h3>
 
 <div align="center">
 
 <a href="https://github.com/AN7EJL/TOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=an7ejl&repo=TOS&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=an7ejl&repo=TOS&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" alt="TOS Project" />
 </a>
 
 </div>
